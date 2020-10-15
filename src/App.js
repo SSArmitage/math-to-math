@@ -17,7 +17,6 @@ class App extends Component {
           <header>
             <h1>Math-to-Math</h1>
           </header>
-          
           <SpeechRecognition />
         </div>
       </div>
