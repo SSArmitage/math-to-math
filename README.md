@@ -1,5 +1,5 @@
 #  :pencil2::notebook: Math-to-Math  :notebook::pencil2:
-Have you ever written an equation down on paper and then needed to do something with that equation? For example, compare its accuracy, get information about the equation, compute a solution, or send it to someone else? Currently, with Math-to-Math you can say an equation aloud and it will provide you with the text-based output. Stretch goals: taking the text output and converting it appropriately (i.e. convert to computable symbols to find a solution).
+Have you ever written an equation down on paper and then needed to do something with that equation? For example, compare its accuracy, get information about the equation, compute a solution, or send it to someone else? Using Microsoft's Cognitive Services speech recognition, Math-to-Math allows you to say an equation aloud and it will provide you with the equivalent text-based output. Stretch goals: taking the text output and converting it appropriately (i.e. convert to computable symbols to find a solution).
 
 ## Built With
 * [React](https://github.com/facebook/create-react-app)
